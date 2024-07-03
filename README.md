@@ -23,4 +23,4 @@ List of contributors:
 ## Source
 This project is hosted on [**GitHub**](https://github.com/lanexadev/fivem-lua-sdk).
 
-The FiveM natives were extracted from [**CFX.re - Natives**](https://github.com/citizenfx/natives) & [**CFX.re - Fivem](https://github.com/citizenfx/fivem) repositories.
+The FiveM natives were extracted from [**CFX.re - Natives**](https://github.com/citizenfx/natives) & [**CFX.re - Fivem**](https://github.com/citizenfx/fivem) repositories.
