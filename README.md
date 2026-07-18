@@ -15,12 +15,12 @@ This is a simple Lua SDK for FiveM developers. This sdk, compatible with Intelli
 If you want to contribute to this project, you can fork it and make a pull request. I will be happy to accept your contributions.
 
 ## Contributors
-This project was made by [**@lanexadev**](https://github.com/lanexadev).
+This project was made by [**@lucasschimmel**](https://github.com/lucasschimmel).
 
 List of contributors:
-- [**@lanexadev**](https://github.com/lanexadev)
+- [**@lucasschimmel**](https://github.com/lucasschimmel)
 
 ## Source
-This project is hosted on [**GitHub**](https://github.com/lanexadev/fivem-lua-sdk).
+This project is hosted on [**GitHub**](https://github.com/lucasschimmel/fivem-lua-sdk).
 
 The FiveM natives were extracted from [**CFX.re - Natives**](https://github.com/citizenfx/natives) & [**CFX.re - Fivem**](https://github.com/citizenfx/fivem) repositories.
